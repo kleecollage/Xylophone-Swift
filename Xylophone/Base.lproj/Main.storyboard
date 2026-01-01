@@ -200,6 +200,15 @@
                             <constraint firstItem="HLG-TK-TT6" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="bLl-xl-0d4"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="aKey" destination="tAp-m4-27O" id="Wsx-A2-DAJ"/>
+                        <outlet property="bKey" destination="9rx-6i-ssp" id="nhV-Er-fk5"/>
+                        <outlet property="cKey" destination="DFM-uT-A7s" id="PZh-fA-u0j"/>
+                        <outlet property="dKey" destination="rHC-RX-B1m" id="XZx-Z5-qHm"/>
+                        <outlet property="eKey" destination="17i-mB-C7b" id="HPC-eU-7xA"/>
+                        <outlet property="fKey" destination="EP7-FS-goB" id="8WK-0k-Odi"/>
+                        <outlet property="gKey" destination="MGF-P9-kNM" id="gxt-t8-d5I"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
